@@ -1,2 +1,3 @@
 # hello-world
-nu fost repository
+my first repository
+I want learn coding!!!
